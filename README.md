@@ -1,6 +1,5 @@
 # Aplikasi-Sederhana-Sekolah-Vokasi-Unpak!
-[Screenshot (1)](https://user-images.githubusercontent.com/120579119/232235024-d73b8f6b-d09a-4e1f-9505-f4ad934f4098.png)
-
+![Screenshot (1)](https://user-images.githubusercontent.com/120579119/232235143-137ef489-18a3-40f9-995e-4aa4257b934c.png)
 ![Screenshot (2)](https://user-images.githubusercontent.com/120579119/232235066-49594bcf-7f66-40aa-ae50-7a439f248b8c.png)
 ![Screenshot (3)](https://user-images.githubusercontent.com/120579119/232235076-ddcb1bd8-47f3-4167-8b19-1f6044f94055.png)
 ![Screenshot (4)](https://user-images.githubusercontent.com/120579119/232235079-4aa35858-bdf2-49c5-9167-bed5d2d24d0d.png)
